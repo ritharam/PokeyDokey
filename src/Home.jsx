@@ -12,9 +12,11 @@ function Home() {
         <div class="button">
           <Link to={"/http"}>
             Pokemon GET Request Model</Link></div>
-        <div class="button"><p>Pokemon WebSocket Model</p></div>
+            <div class="button">
+              <a href="https://websocketio-frontend-wntr.onrender.com/">Pokemon WebSocket Model</a>
+            </div>
         <div class="button">
-          <p><a href="https://www.pokemon.com/us">Pokemon Website</a></p>
+          <p><a href="https://in.portal-pokemon.com/">Pokemon Website</a></p>
         </div>
       </div>
       <div class="footer">
